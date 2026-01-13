@@ -1,4 +1,20 @@
 แดชบอร์ด — dashboard
+- หน้าสรุปข้อมูล — data summary dashboar
+- แผงแสดงข้อมูลภาพรวม — overview dashboard
+- หน้าจอแสดงภาพรวมการวิเคราะห์ของข้อมูล 
+
+- หน้าจอแสดงภาพรวมการวิเคราะห์ข้อมูล Data Analysis Overview Dashboard / Screen
+- หน้าจอแสดงภาพรวมผลการวิเคราะห์ข้อมูล Overview of Data Analysis Results
+
+- แผงแสดงผลภาพรวมของการวิเคราะห์ข้อมูล Data Analysis Overview Dashboard
+- หน้าจอสรุปผลการวิเคราะห์ข้อมูล Analytical Summary Dashboard
+- แผงข้อมูลสรุปเชิงวิเคราะห์ Analytical Summary Panel
+
+- หน้าจอแสดงภาพรวมเชิงวิเคราะห์ของข้อมูล - Analytical Overview Dashboard
+- แผงแสดงผลเชิงวิเคราะห์ระดับภาพรวม - High-level Analytical Dashboard
+- เวอร์ชันกระชับ เหมาะกับชื่อเมนูในระบบ
+- ภาพรวมการวิเคราะห์ข้อมูล- Analysis Overview
+- แดชบอร์ดวิเคราะห์ข้อมูล- Analytics Dashboard
 
 ### โครงสร้างข้อมูลเชิงเวลาและเชิงบริบท
 - การรวมข้อมูลจากหลายช่องทาง
