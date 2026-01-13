@@ -1,3 +1,10 @@
+การแสดงผลและสืบค้นเหตุการณ์จากข้อมูลเชิงเวลา
+(Temporal Data Visualization and Event Retrieval)
+= การแสดงสถานะข้อมูลตามช่วงเวลา — Time-series visualization
+
+การสืบค้นเหตุการณ์ (Event Retrieval)
+= ระบบค้นหาและเรียกดูเหตุการณ์ย้อนหลัง — Event search and review system
+
 ระบบ backend ของ dashbord ควรใช้คำว่าอะไรได้บ้าง - ระบบฝั่งประมวลผลข้อมูล (Processing Backend)
 
 แผนภาพการกระจายความหนาแน่นของข้อมูลกิจกรรม
