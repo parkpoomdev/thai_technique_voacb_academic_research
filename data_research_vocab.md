@@ -1,4 +1,14 @@
 
+the proposed robotic joint angle measurement system and the reference goniometer. <img width="468" height="59" alt="image" src="https://github.com/user-attachments/assets/c3338659-af7a-4864-a8ae-70cdb6f166a2" />
+
+"the proposed robotic joint angle measurement " => 
+
+ที่เราได้เสนอ -> ที่เราได้พัฒนาขึ้น
+มาประเมินว่าระบบวัดมุมข้อต่อด้วยหุ่นยนต์ที่เราพัฒนาขึ้นมีความแม่นยำเทียบกับเครื่องวัดมุมมาตรฐานหรือไม่
+
+<img width="468" height="59" alt="image" src="https://github.com/user-attachments/assets/d8b6db03-30eb-40d5-9804-c314509d117e" />
+
+
 "มากไปกว่านั้น"
 
 - นอกเหนือจากนั้น
